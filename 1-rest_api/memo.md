@@ -52,6 +52,8 @@
 
 ![Alt set constant variables with my node ](pic/09.jpg)
 
+- Save multiple URLs into table, it is convenient to switch in the future.
+
 ![Alt set rest client to post](pic/10.jpg)
 
 ![Alt run and work](pic/15.jpg)
