@@ -1,0 +1,14 @@
+{
+    "category-v2.single.toJob": "pdi-self-taught",
+    "git.link": "https://github.com/echoedinvoker/pdi_self_taught/blob/master/1-rest_api/memo.md",
+    "topic": "1-REST_API",
+    "time.comsuming": 180,
+    "lecturer.name.first": "Start-Tech Academy",
+    "register.time": "2023-02-03T03:00:06Z",
+    "tag": [
+      "etl",
+      "pdi",
+      "kettle","rest","api","select","flow","url","row","variable","constant","json","export"
+    ],
+    "description": "Research how to request API (GET, POST) to get data and then do ETL to export JSON files to external."
+  }

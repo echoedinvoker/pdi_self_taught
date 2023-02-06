@@ -1,0 +1,8 @@
+{
+  "plateform": "node",
+  "status": "success",
+  "data": [
+    { "user": "u01", "msg": "test1" },
+    { "user": "u02", "msg": "test2" }
+  ]
+}
